@@ -1,0 +1,26 @@
+body{
+background-color: #EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+
+}
+hr{
+border-style: none;
+border-top-style:dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;--     <!-- use for width of horizantal line it change when width of page changes-->
+}
+h1 {text-align: center;}
+p{text-align: center;}
+div{text-align: center;}
+h3{text-align: center;}
+tr{text-align: center;}
+td{text-align: center;}
+ul{text-align: center;}
+li{text-align: center;}
